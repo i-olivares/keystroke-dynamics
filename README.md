@@ -1,7 +1,6 @@
 # keystroke-dynamics 
 ## Identificación de usuarios en base a sus patrones de tecleo
-Desde la llegada de los ordenadores personales a inicios de los 80 y, mas tarde, con la llegada
-Los métodosexistentes actualmente para la identificación y verificación de usuarios pueden dividirse en tres grupos: métodos basados en la posesión de un dispositivo fisico como los tokens, aquellos basados en el conocimiento (como las contraseñas) y métodos basados
+Los métodos existentes en la actualidad para la identificación y verificación de usuarios pueden dividirse en tres grupos: métodos basados en la posesión de un dispositivo fisico como los tokens, aquellos basados en el conocimiento (como las contraseñas) y métodos basados
 en datos biométricos. Éstos últimos utilizan rasgos biológicos que son más difíciles de copiar
 u obtener para usuarios ilegítimos que los tokens o contraseñas ya que se tratan o de rasgos físicos
 como las huellas dactilares o el iris o de rasgos relacionados con patrones de comportamiento,
